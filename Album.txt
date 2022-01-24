@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Album</title>
+<style>
+
+body {
+  background-image: url('https://cdn.mos.cms.futurecdn.net/hhpfCdCNpnEsPnuDQHqaWJ.jpg');
+}
+
+</style>
+<body>
+
+<h1 style="color:White;" align="center">Album</h1>
+
+<br>
+<h2 style="color:White;" align="center">Taken by Ahmed Alabbasi</h2>
+
+<img src="C:\Users\AHMED\Desktop\my website\images\4s sunset.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\bahrain bay.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\car.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\flamingo.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\flower.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\fort.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\motor cycle.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\palms and sky.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\sakhir tower.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\world trade center.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\yellow car.jpg" width="400" height="400">
+<img src="C:\Users\AHMED\Desktop\my website\images\national day.jpg" width="400" height="400">
+<br>
+
+
+
+<img src="C:\Users\AHMED\Desktop\my website\images\black logo.jpg" width="100" height="100" align="right">
+
+</body>
+</html>
