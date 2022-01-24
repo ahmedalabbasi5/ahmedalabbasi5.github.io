@@ -17,10 +17,10 @@ body {
 <h2 style="color:White;" align="center"> <a href="file:///C:/Users/AHMED/Desktop/web%20development/Alum.html">Album</a> || <a href="file:///C:/Users/AHMED/Desktop/web%20development/Blog.html">Blog</a></h2>
 <br>
 
-<img src="C:\Users\AHMED\Desktop\my website\images\Ahmed.jpg" width="400" height="500">
+<img src="C:\Users\AHMED\Desktop\ahmedalabbasi5.github.io\images\Ahmed.jpg" width="400" height="500">
 
 
-<img src="C:\Users\AHMED\Desktop\my website\images\black logo.jpg" width="100" height="100" align="right">
+<img src="C:\Users\AHMED\Desktop\ahmedalabbasi5.github.io\images\black logo.jpg" width="100" height="100" align="right">
 
 </body>
 </html>
